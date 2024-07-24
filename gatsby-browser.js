@@ -7,7 +7,7 @@ export const wrapRootElement = ({ element }) => (
   <>
     <Helmet>
       <meta name="description" content="Default description for the site" />
-      <link rel="stylesheet" href="/styles/global.css" />
+      {/* <link rel="stylesheet" href="/styles/global.css" /> */}
     </Helmet>
     {element}
   </>

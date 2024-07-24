@@ -1,5 +1,5 @@
 import React from "react";
-import '../../styles/componets/syncroPage/SwitchBox.css'
+import '../../styles/componets/syncPage/SwitchBox.css'
 function SwitchBox() {
   return (
     <div className="s-b">
