@@ -8,7 +8,7 @@ function Footer() {
         <div className="footer-logo">
           <div className='logo-stuff-div'>
               <div className="logo-div">
-                <img src="sops.svg" alt="logo" className="sops-logo-1"/>
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMzEiIHZpZXdCb3g9IjAgMCAyNSAzMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5LjI3NzEgMC41NDY1MzRMMTkuMjc4OSA1Ljc1MzkxQzE5LjI3ODkgNS45NDU4OCAxOS4xNzExIDYuMTIzMjEgMTguOTk1IDYuMjIwNzJMMC4wMDAzNjYyMTEgMTYuNzE0N1YxMC41OTU2QzAuMDAwMzY2MjExIDEwLjM3OTkgMC4xMjE2MzggMTAuMTggMC4zMTk2OTUgMTAuMDcwOUwxOC40MDI2IDAuMDc2MDcxN0MxOC43ODk2IC0wLjEzNzgzIDE5LjI3NzcgMC4xMjQ4MjQgMTkuMjc3MSAwLjU0NjUzNFoiIGZpbGw9IiNFMDA2NEIiLz4KPHBhdGggZD0iTTExLjMxNjQgMTcuMzM1N0wxLjA2Nzk5IDEwLjkxNjJDMS4wNjc5OSAxMC45MTYyIDAuNTY3NjYyIDEwLjY1NTMgMC41NDkzOCAxMC4zMzQyQzAuNTMxMDk4IDEwLjAxMyAwLjgxNTY5MSA5Ljc5NzMgMC44MTU2OTEgOS43OTczQzAuODE1NjkxIDkuNzk3MyAwLjUwNTUwMyA5Ljk2ODU0IDAuMzIwMjQzIDEwLjA3MDlDMC4yMTExNTkgMTAuMTMxMyAwLjExMzA0NSAxMC4yMjk0IDAuMDU2OTc5NSAxMC4zNDE1QzAuMDI2NTA5MiAxMC40MDM3IDAuMDA3MDA4MTggMTAuNDcxMyAwLjAwMTUyMzUyIDEwLjU0MDJDLTAuMDAwOTE0MTEgMTAuNTY5NCAwLjAwMDMwNDcwMyAxMC41OTg3IDAuMDAwMzA0NzAzIDEwLjYyNzlWMTcuNDU2OUMwLjAwMDMwNDcwMyAxNy42NDY1IDAuMTAxNDY2IDE3LjgyMzggMC4yNjkwNTMgMTcuOTI4Nkw1LjQwMDI2IDIxLjE0MjZDNS41OTAzOSAyMS4yNjE1IDUuODM2NTkgMjEuMjY4MiA2LjAzMzQzIDIxLjE1OTdMMTEuMjg5IDE4LjI1NjVDMTEuNjU3IDE4LjA1MjkgMTEuNjcxNyAxNy41NTgxIDExLjMxNjQgMTcuMzM1N1oiIGZpbGw9IiNGRjAwNTUiLz4KPHBhdGggZD0iTTUuNzIzMTQgMjkuOTIzN0w1LjcyMTMxIDI0LjcxNjNDNS43MjEzMSAyNC41MjQzIDUuODI5MTggMjQuMzQ3IDYuMDA1MyAyNC4yNDk1TDI0Ljk5OTMgMTMuNzU1NVYxOS44NzQ1QzI0Ljk5OTMgMjAuMDkwMyAyNC44NzggMjAuMjkwMiAyNC42OCAyMC4zOTkyTDYuNTk3NjQgMzAuMzk0MUM2LjIxMDY3IDMwLjYwOCA1LjcyMjUzIDMwLjM0NTQgNS43MjMxNCAyOS45MjM3WiIgZmlsbD0iI0UwMDY0QiIvPgo8cGF0aCBkPSJNMTMuNjgzOCAxMy4xMzQ1TDIzLjkzMjIgMTkuNTU0QzIzLjkzMjIgMTkuNTU0IDI0LjQzMjUgMTkuODE0OCAyNC40NTA4IDIwLjEzNkMyNC40NjkxIDIwLjQ1NzEgMjQuMTg0NSAyMC42NzI5IDI0LjE4NDUgMjAuNjcyOUMyNC4xODQ1IDIwLjY3MjkgMjQuNDYzIDIwLjUxNjggMjQuNjc5OSAyMC4zOTkyQzI0Ljg0NTcgMjAuMzA5IDI0Ljk2MzMgMjAuMTQ4OCAyNC45OTI2IDE5Ljk2MjlDMjQuOTk2MiAxOS45NDE2IDI0Ljk5ODEgMTkuOTE5NiAyNC45OTk5IDE5Ljg5NTJWMTMuMDEzMkMyNC45OTk5IDEyLjgyMzcgMjQuODk4NyAxMi42NDY0IDI0LjczMTEgMTIuNTQxNUwxOS41OTk5IDkuMzI3NTNDMTkuNDA5OCA5LjIwODY5IDE5LjE2MzYgOS4yMDE5OSAxOC45NjY4IDkuMzEwNDZMMTMuNzExMiAxMi4yMTM3QzEzLjM5MjUgMTIuMzkxIDEzLjM1NDcgMTIuOTIyNCAxMy42ODM4IDEzLjEzNDVaIiBmaWxsPSIjRkYwMDU1Ii8+Cjwvc3ZnPgo=" alt="logo" className="sops-logo-1"/>
               </div>
               <p className="logo-text">Powered by AI Superpowered for MSPs</p>
               <p className="copyright">© 2024 SuperOps. All rights reserved</p>
@@ -103,8 +103,8 @@ function Footer() {
       </div>
       <div className="footer-bottom">
           <div className='f-b-p-1'>
-                <img src="med1.png" alt="med-logo" className="med-logo"/>
-                <img src="med2.png" alt="med-logo" className="med-logo"/>
+                <img src="https://superops.com/static/SOC_logo-ef4ccbc67876671e3b226d5d42fb62b6.png" alt="med-logo" className="med-logo"/>
+                <img src="https://superops.com/static/hippaaLogo-e0243227a87f2059bb67adf3843e9934.png" alt="med-logo" className="med-logo"/>
           </div>
           <div className='f-b-p-2'>
               <p className='sub'>Subscribe to our newsletter</p>
