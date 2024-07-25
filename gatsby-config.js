@@ -36,10 +36,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-tagmanager`,
+      resolve: `gatsby-plugin-google-tagmanager`,
       options: {
-        id: 'YOUR_GOOGLE_TAG_MANAGER_ID',
-        // Add other options if needed
+        id: 'GTM-NFJ3RX65',
+        includeInDevelopment: false,
       },
     },
     `gatsby-plugin-react-helmet`,

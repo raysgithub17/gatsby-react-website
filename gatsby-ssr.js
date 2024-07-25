@@ -1,14 +1,14 @@
-// gatsby-ssr.js
+// // gatsby-ssr.js
 
-import React from 'react';
-import { Helmet } from 'react-helmet';
+// import React from 'react';
+// import { Helmet } from 'react-helmet';
 
-export const wrapRootElement = ({ element }) => (
-  <>
-    <Helmet>
-      <meta name="description" content="Default description for the site" />
-      {/* <link rel="stylesheet" href="/styles/global.css" /> */}
-    </Helmet>
-    {element}
-  </>
-);
+// export const wrapRootElement = ({ element }) => (
+//   <>
+//     <Helmet>
+//       <meta name="react-gatsby-webiste" content="superops website using react-gatsby" />
+      
+//     </Helmet>
+//     {element}
+//   </>
+// );
