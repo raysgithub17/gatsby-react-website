@@ -25,7 +25,7 @@ module.exports = {
         mergeStyleHashes: false,
         mergeDefaultDirectives: true,
         directives: {
-          'script-src': "'self' 'unsafe-inline' ",
+          'script-src': "'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com",
           'style-src': "'self' 'unsafe-inline' https://fonts.googleapis.com",
           'img-src': "'self' blob: data: https://images.g2crowd.com https://media.graphassets.com https://superops.com",
           'connect-src': ["'self'"],
