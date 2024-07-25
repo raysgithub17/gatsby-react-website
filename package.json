@@ -19,6 +19,7 @@
     "beaver-logger": "^4.0.36",
     "gatsby": "^5.13.5",
     "gatsby-plugin-csp": "^1.1.4",
+    "gatsby-plugin-google-analytics": "^5.13.1",
     "gatsby-plugin-google-tagmanager": "^5.13.1",
     "gatsby-plugin-react-helmet": "^6.13.1",
     "gatsby-plugin-robots-txt": "^1.8.0",
