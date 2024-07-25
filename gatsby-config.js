@@ -28,7 +28,7 @@ module.exports = {
           'script-src': "'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com",
           'style-src': "'self' 'unsafe-inline' https://fonts.googleapis.com",
           'img-src': "'self' blob: data: https://images.g2crowd.com https://media.graphassets.com https://superops.com",
-          'connect-src': ["'self'"],
+          'connect-src': "'self' data: https://www.google-analytics.com ",
           'font-src': "'self' data: https://fonts.googleapis.com https://fonts.gstatic.com ",
           'frame-src': ["'self'"],
           'base-uri': ["'self'"],
